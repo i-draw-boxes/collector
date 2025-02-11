@@ -14,7 +14,7 @@ body {
 }
 
 .subtitle {
-    font-size: 20pt;
+    font-size: 30pt;
     font-weight: bold;
     text-align: center;
     opacity: 0;
@@ -41,7 +41,8 @@ body {
 
 #instructions {
     text-align: center;
-    min-height: 30px;
+    min-height: 40px;
+    font-size: 20pt;
 }
 
 #collection_display {
