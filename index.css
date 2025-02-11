@@ -1,0 +1,51 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #372b45;
+}
+
+body {
+    background-color: #f5f7c3;
+}
+
+.title {
+    font-size: 50pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0;
+}
+
+#emojis {
+    text-align: center;
+    min-height: 230px;
+}
+
+#gift_display {
+    display:inline-block;
+    font-size: 100pt;
+    cursor: pointer;
+}
+
+#result_display {
+    display:inline-block;
+    font-size: 100pt;
+    opacity:0;
+    display: none;
+    cursor: none;
+}
+
+#instructions {
+    text-align: center;
+    min-height: 30px;
+}
+
+#collection_display {
+    font-size: 32pt;
+    text-align: center;
+    opacity: 0;
+}
